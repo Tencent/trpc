@@ -1,4 +1,4 @@
-# tRPC - A multi-language, pluggable, high performance RPC framework
+# tRPC - A multi-language, pluggable, high-performance RPC framework
 
 tRPC website: [https://trpc.group/](https://trpc.group/)
 
