@@ -1,11 +1,13 @@
 # tRPC - A multi-language, pluggable, high-performance RPC framework
 
-tRPC website: [https://trpc.group/](https://trpc.group/)
+tRPC Website: [https://trpc.group/](https://trpc.group/)
 
-tRPC repo: [https://github.com/trpc-group](https://github.com/trpc-group)
+tRPC Repo: [https://github.com/trpc-group](https://github.com/trpc-group)
 
-tRPC-Cpp repo: [https://github.com/trpc-group/trpc-cpp](https://github.com/trpc-group/trpc-cpp)
+tRPC-Cpp Repo: [https://github.com/trpc-group/trpc-cpp](https://github.com/trpc-group/trpc-cpp)
 
-tRPC-Go repo: [https://github.com/trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)
+tRPC-Go Repo: [https://github.com/trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)
 
-tRPC plugin ecosystem repo: [https://github.com/trpc-ecosystem](https://github.com/trpc-ecosystem) 
+tRPC Plugin Ecosystem Repo: [https://github.com/trpc-ecosystem](https://github.com/trpc-ecosystem) 
+
+tRPC License: APACHE LICENSE, VERSION 2.0
